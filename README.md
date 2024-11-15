@@ -4,7 +4,6 @@ Welcome to my GitHub page!
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/luckkystop20/)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@luckystop1)  
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?color=white&logo=telegram&logoColor=black)](https://t.me/luckkystopdz)
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
